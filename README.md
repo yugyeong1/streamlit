@@ -1,3 +1,3 @@
 # streamlit
 
-### streamlit 문법들
+### 📌 streamlit 의 문법들
